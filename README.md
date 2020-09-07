@@ -1,2 +1,2 @@
 # django-billet
-Blank Django project with Bootstrap and SB Admin connected
+Blank Django project on docker container with Bootstrap and SB Admin connected
