@@ -1,7 +1,0 @@
-{
-  "name": "django-billet",
-  "version": "1.0.0",
-  "dependencies": {
-    "startbootstrap-sb-admin-2": "4.1.1"
-  }
-}
